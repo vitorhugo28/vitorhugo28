@@ -10,7 +10,7 @@ EasyEDA | Inventor | MATLAB | Microsoft Excel | Power BI | Scilab
 
 ##
 
-ATmega328 | ESP32 | STM32
+ATmega328 | ESP32 | Raspberry Pi | STM32
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
