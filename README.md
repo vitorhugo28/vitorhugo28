@@ -2,7 +2,7 @@
 
 - 📚 Formado em Engenharia Mecâniaca e cursando gradução em Eletrônica Industrial
   
-Artificial Intelligence | Data Science | Embarcados | IOT | Machine Learning | Matemática | Programação | R | Robótica
+Artificial Intelligence | Data Science | Embarcados | IOT | Machine Learning | Matemática | Programação | Robótica
 
 ##
 
