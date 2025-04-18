@@ -1,24 +1,27 @@
-## Olá! Eu sou o Vitor Hugo
+# Olá! Eu sou o **Vitor Hugo**.
 
-- 📚 Formado em Engenharia Mecâniaca e cursando gradução em Eletrônica Industrial
-  
-Artificial Intelligence | Data Science | Embarcados | IOT | Machine Learning | Matemática | Programação | Robótica
+- 📚 Formado em Engenharia Mecânica e cursando graduação em Eletrônica Industrial.
 
-##
+Bem-vindo ao meu portfólio! Aqui você encontra os projetos que desenvolvi nas áreas de:
 
-EasyEDA | Inventor | MATLAB | Microsoft Excel | Power BI | Scilab
+- 📊 Ciência de Dados e Inteligência Artificial
+- ⚙️ Sistemas Embarcados em C (com ESP32)
+- 🧠 MATLAB para Engenharia e Machine Learning
 
-##
+Todos os projetos são autorais, com foco em aprendizado, boas práticas e impacto real.
 
-ATmega328 | ESP32 | Raspberry Pi | STM32
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</div>
 
-##
-"O conhecimento liberta"
+
+
+
+
+
+
+
+
+
+
+
+
+
