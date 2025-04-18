@@ -1,4 +1,4 @@
-# Olá! Eu sou o **Vitor Hugo**.
+## Olá! Eu sou o **Vitor Hugo**.
 
 - 📚 Formado em Engenharia Mecânica e cursando graduação em Eletrônica Industrial.
 
@@ -11,6 +11,13 @@ Bem-vindo ao meu portfólio! Aqui você encontra os projetos que desenvolvi nas 
 Todos os projetos são autorais, com foco em aprendizado, boas práticas e impacto real.
 
 
+## 🔢 Ciência de Dados & IA
+
+
+## ⚙️ Sistemas Embarcados com ESP32
+
+
+## 🧠 MATLAB para Engenharia e IA
 
 
 
