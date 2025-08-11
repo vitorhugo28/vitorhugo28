@@ -8,8 +8,6 @@ Bem-vindo ao meu portfólio! Aqui você encontra os projetos que desenvolvi nas 
 - ⚙️ Sistemas Embarcados em C (com ESP32)
 - 🧠 MATLAB para Engenharia e Machine Learning
 
-Todos os projetos são autorais, com foco em aprendizado, boas práticas e impacto real.
-
 
 ## 🔢 Ciência de Dados & IA
 
