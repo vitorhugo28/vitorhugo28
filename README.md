@@ -12,7 +12,7 @@ Bem-vindo ao meu portfólio! Aqui você encontra os projetos que desenvolvi nas 
 ## 🔢 Ciência de Dados & IA
 
 
-## ⚙️ Sistemas Embarcados com ESP32
+## ⚙️ Sistemas Embarcados
 
 
 ## 🧠 MATLAB para Engenharia e IA
