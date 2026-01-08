@@ -5,7 +5,7 @@
 Bem-vindo ao meu portfólio! Aqui você encontra os projetos que desenvolvi nas áreas de:
 
 - 📊 Ciência de Dados e Inteligência Artificial
-- ⚙️ Sistemas Embarcados em C (com ESP32)
+- ⚙️ Sistemas Embarcados em C (ESP32 , STM32)
 - 🧠 MATLAB para Engenharia e Machine Learning
 
 
